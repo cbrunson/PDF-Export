@@ -1,11 +1,11 @@
-PDF Export for Sketch App
+## PDF Export for Sketch App
 
-This plugin enables the export of selected artboards to a merged pdf file.
+This Sketch App plugin enables the export of selected artboards to a merged pdf file.
 
 ### How to set up
 The set up works occurs in two part.
 
-You'll need to download : PDFSketch.zip
+You'll need to download : PDFExport.zip
 
 Set up a shortcut to export from SketchApp to the clipboard
 Drag and drop the "PDFExport.sketchplugin" on the SketchApp icon.
