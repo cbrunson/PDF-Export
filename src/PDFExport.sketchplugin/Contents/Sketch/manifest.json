@@ -1,0 +1,24 @@
+{
+	"name": "Carls Artboards to PDF",
+	"description": "Sketch plugin to export selected artboards to PDF file",
+	"author": "Carl Brunson",
+	"homepage": "",
+	"version": "1",
+	"identifier": "",
+	"compatibleVersion": "4",
+	"bundleVersion": "1",
+	"commands": [
+        {
+        "name": "Export Selected Artboards to PDF",
+        "identifier": "artboardsToPDF",
+        "shortcut": "",
+        "script": "main.js",
+        "handler": "artboardsToPDF"
+        }
+	],
+	"menu": {
+		"items": [
+           "artboardsToPDF"
+       ]
+	}
+}
